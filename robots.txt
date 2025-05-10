@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thepiyushpackers.in/?sitemapindex.xml
+Sitemap: https://thepiyushpackers.in/?sitemap215.xml
+Sitemap: https://thepiyushpackers.in/?sitemap294.xml
+Sitemap: https://thepiyushpackers.in/?sitemap743.xml
+Sitemap: https://thepiyushpackers.in/?sitemap304.xml
+Sitemap: https://thepiyushpackers.in/?sitemap3.xml
+Sitemap: https://thepiyushpackers.in/pages.php?sitemap720.xml
+Sitemap: https://thepiyushpackers.in/wp-admin/search.php?sitemap174.xml
